@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../AWSElasticSearchService/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AWSElasticSearchService/src/main/java/CSVDataToJSON.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AWSElasticSearchService/src/main/java/SearchParams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AWSElasticSearchService/src/main/java/SearchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringPrac/src/com/rohith/prac/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/rohith/taxCal/TaxCalAlgo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/BankAccount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/BrokerageAccount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/CSVtoJSON.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/CheckingAccount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/ComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/Example.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/Fegwr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/HackerRack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/HackerRankPrac.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/LinkedListSwap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/MergeArrays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/OddNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/Practice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/SavingsAccount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/StackPrac.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/StreamsPerformance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/StringDigit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/StringToInt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sdfds/Hello/SubList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springPrac/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springPrac/src/main/java/com/spring/prac/springPrac/SpringPracApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-client/src/main/java/com/apple/ist/retail/pos/iphone/central/client/IPhonePodServiceRestClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-common/src/main/java/com/apple/ist/retail/pos/iphone/central/constant/IPhoneCentralConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-common/src/main/java/com/apple/ist/retail/pos/iphone/central/constant/IPhoneCentralURIConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-server/src/main/java/com/apple/ist/retail/pos/iphone/central/module/SchedulerModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-server/src/main/java/com/apple/ist/retail/pos/iphone/central/scheduler/CompleteTransactionQueueService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-server/src/main/java/com/apple/ist/retail/pos/iphone/central/scheduler/CompleteTransactionTicketService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-server/src/main/java/com/apple/ist/retail/pos/iphone/central/server/jersey/AbstractForwardJerseyResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-server/src/main/java/com/apple/ist/retail/pos/iphone/central/server/jersey/IPhoneCentralJerseyResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-server/src/main/java/com/apple/ist/retail/pos/iphone/central/server/operation/AbstractOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-server/src/main/java/com/apple/ist/retail/pos/iphone/central/server/operation/CompleteTransaction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-central/pos-iphone-central-server/src/main/java/com/apple/ist/retail/pos/iphone/central/server/util/IPhoneCentralServerUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-services/pos-iphone-server/src/main/java/com/apple/ist/retail/pos/iphone/activation/server/spi/CompleteTransactionTxn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-services/pos-iphone-server/src/main/java/com/apple/ist/retail/pos/iphone/activation/server/spi/IPhoneCompleteOrderTxn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-services/pos-iphone-server/src/main/java/com/apple/ist/retail/pos/iphone/activation/server/spi/IntlIPhoneReturn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-services/pos-iphone-server/src/main/java/com/apple/ist/retail/pos/iphone/activation/server/spi/IntlIPhoneSale.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-services/pos-iphone-server/src/main/java/com/apple/ist/retail/pos/iphone/activation/server/spi/IntlIphoneRegisterSaleTxn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-services/pos-iphone-server/src/test/java/com/apple/ist/retail/pos/iphone/activation/mock/MAUSClientMock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/COMPONENTS/pos-iphone/pos-iphone-shared/src/main/java/com/apple/ist/retail/pos/iphone/shared/constants/IOSActivationType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/java/com/apple/ist/wwrc/imaus/ios/resources/BopisPreAuthStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/java/com/apple/ist/wwrc/imaus/ios/resources/ExchangeDevice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/java/com/apple/ist/wwrc/imaus/ios/resources/OrderDetailsRetrieval.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/java/com/apple/ist/wwrc/imaus/ios/simulator/ActivationSession.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/java/com/apple/ist/wwrc/imaus/util/Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/resources/imaus/json/bopisPreAuthStatus.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/resources/imaus/xml/bopisOrderRetrieval/bopisOrderRetrieval_ATT_new.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/resources/imaus/xml/bopisPreAuthStatus/bopisPreAuthStatus_analystReview2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/resources/imaus/xml/bopisPreAuthStatus/bopisPreAuthStatus_carrierCallFailedRetry.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/resources/imaus/xml/bopisPreAuthStatus/bopisPreAuthStatus_preAuthBurned.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/imaus-server/src/main/resources/imaus/xml/deviceDetails/deviceDetails_gsm_lock.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/client/src/main/java/com/apple/wwrc/client/tax/TaxService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/client/src/main/java/com/apple/wwrc/client/tax/model/DiscountMode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/client/src/main/java/com/apple/wwrc/client/tax/model/DiscountTaxableMode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/Discount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/constants/DiscountReasonCodeConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/factory/RoundingFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/factory/TaxFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/ApplyTaxModification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/discount/BRADiscountImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/discount/DiscountImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/discount/TaxExclusiveDiscountImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/discount/TaxInclusiveDiscountImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/discount/TurDiscountImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/exclusive/TaxExclusiveSaleItemTaxServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/inclusive/TaxInclusiveSaleItemTaxServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/rounding/CeilingRoundingStrategyImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/rounding/FloorRoundingStrategyImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/rounding/HalfUpRoundingStrategyImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/impl/rounding/RoundingStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/model/BRATaxRates.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/model/SingleTaxRate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/model/discount/DiscountMetaData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/utils/DiscountUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/utils/RoundingUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/main/java/com/apple/wwrc/service/tax/utils/TaxUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/test/java/com/apple/wwrc/service/tax/ApplyTaxModificationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/test/java/com/apple/wwrc/service/tax/rounding/RoundingStrategyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/service/src/test/resources/json/TaxLineitemUK.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/testclient/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/jamaica/tax/testclient/src/main/java/com/apple/wwrc/testclient/tax/TaxServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-geo-tax-server/pos-tax-shared/src/main/java/com/apple/ist/retail/pos/tax/shared/core/DiscountCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-geo-tax-server/pos-tax-shared/src/main/java/com/apple/ist/retail/pos/tax/shared/core/DiscountUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-geo-tax-server/pos-tax-shared/src/main/java/com/apple/ist/retail/pos/tax/shared/util/TaxUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-geo-tax-server/pos-tha-tax-server/src/main/java/com/apple/ist/retail/pos/tha/tax/server/service/THATaxServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-tax-server/src/main/java/com/apple/ist/retail/pos/tax/server/core/ConsolidateTotalsTxn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-tax-server/src/main/java/com/apple/ist/retail/pos/tax/server/resource/TaxServiceResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-tax-server/src/main/java/com/apple/ist/retail/pos/tax/server/service/TaxCalculationExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-tax-server/src/main/java/com/apple/ist/retail/pos/tax/server/service/TaxServiceFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-tax-server/src/main/java/com/apple/ist/retail/pos/tax/server/utils/TaxUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-tax/pos-tax-server/src/main/java/com/apple/ist/retail/pos/tax/server/utils/TaxValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/pos-txn-retrieve/pos-txn-retrieve-server/src/main/java/com/apple/ist/retail/pos/retrieve/server/RetrieveServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/wwrc-pos-release/server/pos/src/main/java/com/apple/ist/retail/mpos/engine/spi/complete/CompleteTxn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/wwrc-pos-release/server/pos/src/main/java/com/apple/ist/retail/mpos/intl/iphone/util/IntlIPhoneServiceServerUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/wwrc-pos-release/txnbroker/pos-txnbroker-shared/src/main/java/com/apple/ist/retail/pos/txnbroker/shared/burton/config/TxnBrokerConfigKeys.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/wwrc-pos-release/txnbroker/pos-txnbroker-shared/src/main/java/com/apple/ist/retail/pos/txnbroker/shared/burton/delegate/TxnBrokerBurtonRetrieveTxnJerseyDelegate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/wwrc-pos-release/txnbroker/pos-txnbroker-shared/src/main/java/com/apple/ist/retail/pos/txnbroker/shared/constants/TxnBrokerConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/Git/wwrc-pos-release/txnbroker/pos-txnbroker/src/main/java/com/apple/ist/retail/pos/txnbroker/iphone/processor/TxnBrokerRenewJerseyProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
