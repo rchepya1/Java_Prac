@@ -26,11 +26,10 @@ public class Fegwr {
             accounts.stream().forEach(
                     account -> System.out.println(
                             MessageFormat.format(TEXT,
-                                    new Object[]{
-                                            account.getAccountType(),//make this work
-                                            account.getUnits(),//make this work
-                                            account.getCurrency()//make this work
-                                    })));
+                                    account.getAccountType(),//make this work
+                                    account.getUnits(),//make this work
+                                    account.getCurrency()//make this work
+                            )));
         }
     }
 

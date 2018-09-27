@@ -1,7 +1,5 @@
 package com.rohith.prac;
 
-import java.util.Stack;
-
 public class Sorting {
 
     public static void main(String args[]) {
