@@ -2,7 +2,7 @@ package com.rohith.prac;
 
 
 /**
- * Created by rohith on 5/12/18.
+ * Created by rohith.
  */
 public class LinkedListInsertionSort {
     Node head;
@@ -12,8 +12,6 @@ public class LinkedListInsertionSort {
     class Node {
         int val;
         Node next;
-
-
         public Node(int val) {
             this.val = val;
         }

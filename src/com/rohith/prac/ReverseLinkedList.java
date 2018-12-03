@@ -1,8 +1,8 @@
-import java.util.ArrayList;
+package com.rohith.prac;
 
 
 /**
- * Created by rohith on 8/20/17.
+ * Created by rohith.
  */
 public class ReverseLinkedList {
     private static class Node {
